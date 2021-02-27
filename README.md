@@ -2,7 +2,8 @@
 
 # Introduction
 
-This project seeks to create regression predictive models that can effectively predict the if a patient's symptoms indicate whether they have hypothyroidism or not.
+This project seeks to create predictive models that can effectively predict the if a patient's symptoms indicate whether they have hypothyroidism or not.
+
 # Motivation
 
 This project was done as part of an assessment for a Data Science Course
